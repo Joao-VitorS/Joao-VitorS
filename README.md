@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Vitor.
 
-- 💻 Sou Programador Front End.
+- 💻 Programador Front End.
 - 🌱 Atualmente aprofundando meus conhecimentos em JavaScript.
 <br>
 <div>

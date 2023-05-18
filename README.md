@@ -4,9 +4,9 @@
 - 🌱 Atualmente aprofundando meus conhecimentos em JavaScript.
 <br>
 <div>
-  <img height = 180em src = "https://github-readme-stats.vercel.app/api?username=Joao-VitorS&show_icons=true&theme=dark"/>
+  <img height = 180em src = "https://github-readme-stats-ecru-two.vercel.app/api?username=Joao-VitorS&show_icons=true&theme=dark"/>
   <a href="https://github.com/Joao-VitorS/github-readme-stats">
-    <img height = 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VitorS&layout=compact&theme=dark"/>
+    <img height = 180em src="https://github-readme-stats-ecru-two.vercel.app/api/top-langs/?username=Joao-VitorS&layout=compact&theme=dark"/>
   </a>
 </div>
 
